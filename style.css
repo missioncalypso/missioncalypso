@@ -1,5 +1,5 @@
 .NavLink{
-        font-family:Century Gothic,sans-serif;
+        font-family:Footlight MT Light,sans-serif;
         font-size:32px;
         color:#ffffff;
         text-decoration:none;
@@ -14,7 +14,7 @@
         border-radius:10px;
       }
       .NavTd{
-        background-color:#527a52;
+        background-color:#fe7303;
         width:99%;
         padding:0px;
         border-radius:10px;
@@ -30,13 +30,13 @@
         margin:10px auto 40px auto;
         width:100%;
         border-radius:10px;
-        background-color:#527a52;
+        background-color:#fe7303;
       }
       .NavTd:hover{
-        background-color:#496D49;
+        background-color:#ca5b01;
       }
       body{
-        background-color:#EAE9E9;
+        background-color:#e4faf9;
       }
       #infobox{
     border-radius: 25px;
@@ -45,8 +45,8 @@
     width: 200px auto;
     height: 200px auto;
     text-align:center;
-    font-family:Century Gothic, sans-serif;
-    background-color:#EAE9E9;
+    font-family:Footlight MT Light, sans-serif;
+    background-color:#c4f5f1;
     color:black;
 	box-shadow:20px 20px 20px 20px #D2D1D1;
       }
