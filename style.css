@@ -1,5 +1,5 @@
 .NavLink{
-        font-family:Footlight MT Light,sans-serif;
+        font-family:Footlight MT Light, Tahoma, Trebuchet MS, Arial, sans-serif;
         font-size:32px;
         color:#ffffff;
         text-decoration:none;
@@ -45,7 +45,7 @@
     width: 200px auto;
     height: 200px auto;
     text-align:center;
-    font-family:Footlight MT Light, sans-serif;
+    font-family:Footlight MT Light, Tahoma, Trebuchet MS, Arial, sans-serif;
     background:linear-gradient(#dd2f2c, #ef7d3b);
     color:white;
 	
