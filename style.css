@@ -36,7 +36,7 @@
         background-color:#ca5b01;
       }
       body{
-        background-color:#000000<!--e4faf9-->;
+        background-color:#e4faf9;
       }
       #infobox{
     border-radius: 25px;
@@ -48,7 +48,7 @@
     font-family:Footlight MT Light, sans-serif;
     background-color:#c4f5f1;
     color:black;
-	box-shadow:20px 20px 20px 20px #D2D1D1;
+	
       }
 	  a:hover{
 		  text-decoration:underline;
