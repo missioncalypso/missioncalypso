@@ -46,7 +46,7 @@
     height: 200px auto;
     text-align:center;
     font-family:Footlight MT Light, sans-serif;
-    background-color:linear-gradient(red, yellow);
+    background:linear-gradient(red, yellow);
     color:white;
 	
       }
