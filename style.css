@@ -8,13 +8,13 @@
         padding-left:32px;
       }
       #TitleTd{
-        background-color:#ef7e23;
+        background-color:black;
         width:100%;
         padding:0px;
         border-radius:10px;
       }
       .NavTd{
-        background-color:#ef7e23;
+        background-color:black;
         width:99%;
         padding:0px;
         border-radius:10px;
@@ -30,10 +30,10 @@
         margin:10px auto 40px auto;
         width:100%;
         border-radius:10px;
-        background-color:#ef7e23;
+        background-color:black;
       }
       .NavTd:hover{
-        background-color:#ca5b01;
+        background-color:grey;
       }
       body{
         background-color:#0c83b1;
@@ -46,7 +46,7 @@
     height: 200px auto;
     text-align:center;
     font-family:Footlight MT Light, sans-serif;
-    background:linear-gradient(red, yellow);
+    background:linear-gradient(#dd2f2c, #ef7d3b);
     color:white;
 	
       }
