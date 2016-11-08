@@ -40,13 +40,13 @@
       }
       #infobox{
     border-radius: 25px;
-    border: 10px solid #e47c27;
+    border: 10px solid black;
     padding: 20px auto; 
     width: 200px auto;
     height: 200px auto;
     text-align:center;
     font-family:Footlight MT Light, sans-serif;
-    background-color:grey;
+    background-color:linear-gradient(to right, red, yellow);
     color:white;
 	
       }
